@@ -1,7 +1,7 @@
 # Data Repository: Abundance, Biomass and Occupancy for 16 macrozoobenthos species in the Dutch Wadden Sea sampled between 2008 and 2015
 
 ## Original publication
-This repository contains data for the paper: Bijleveld et al. (in review) Presence-absence of marine macrozoobenthos does not generally predict abundance and biomass. Scientific Reports, DOI: xxx.
+This repository contains data for the paper: Bijleveld, A. I. et al. (2018) Presence-absence of marine macrozoobenthos does not generally predict abundance and biomass. Scientific Reports 8, 3039, doi:10.1038/s41598-018-21285-1.
 
 ## Citation
 Please cite the original publication when using this data 
